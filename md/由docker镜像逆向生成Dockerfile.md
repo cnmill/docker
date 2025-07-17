@@ -10,7 +10,7 @@
 ### 使用docker history
 通过docker history <IMAGE> 查看镜像信息来分析生成Dockerfile。
 
-缺点：少了FROM指令信息，多出来自BASIC_IMAGE的一些指令信息
+缺点：少了FROM指令信息，多数来自BASIC_IMAGE的一些指令信息
 
 * 通用脚本
     dfimage.sh
